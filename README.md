@@ -16,7 +16,7 @@
        .then(scriptText => eval(scriptText))
        .catch(error => console.error('Error loading the script:', error));
    })();
-   5. Press Enter to execute the script.
+ 5. Press Enter to execute the script.
 
 ## Video Tutorials
 For additional information on how to use the script, you can watch the tutorials at the following [YouTube link](https://youtu.be/n96fkltIJxU)
